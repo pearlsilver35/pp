@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_messages" value="name:id;datatype:int,name:Name;datatype:blob,name:Email;datatype:string,name:Message;datatype:blob,name:Time;datatype:timestamp" />
+	<infoitem key="UD_visitors" value="name:ip_address;datatype:string,name:referer;datatype:string,name:date;datatype:string,name:counter;datatype:int" />
+</info>

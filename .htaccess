@@ -1,0 +1,9 @@
+
+DirectoryIndex index.php 
+
+ErrorDocument 400 https://ayodeleabigail.ml/errors/400
+ErrorDocument 401 https://ayodeleabigail.ml/errors/401
+ErrorDocument 403 https://ayodeleabigail.ml/errors/403
+ErrorDocument 404 https://ayodeleabigail.ml/errors/404
+ErrorDocument 500 https://ayodeleabigail.ml/errors/500
+ErrorDocument 503 https://ayodeleabigail.ml/errors/503

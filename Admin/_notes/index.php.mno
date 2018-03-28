@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Recordset1" value="name:sum(counter);datatype:real" />
+	<infoitem key="UD_messages" value="name:id;datatype:int,name:Name;datatype:blob,name:Email;datatype:string,name:Message;datatype:blob,name:Time;datatype:timestamp" />
+	<infoitem key="UD_year" value="name:year(year);datatype:int" />
+	<infoitem key="UD_recentmessages" value="name:id;datatype:int,name:Name;datatype:blob,name:Email;datatype:string,name:Message;datatype:blob,name:Time;datatype:timestamp" />
+	<infoitem key="UD_vistors" value="name:ip_address;datatype:string,name:referer;datatype:string,name:date;datatype:string,name:counter;datatype:int" />
+	<infoitem key="UD_sumofcounter" value="name:sum(counter);datatype:real" />
+</info>
